@@ -14,3 +14,6 @@ def factorial(n):
 number_to_calculate = 5
 fact = factorial(number_to_calculate)
 print(f"The factorial of {number_to_calculate} is: {fact}")
+
+
+//This is just a sample code written to understand the push and pull concepts//
